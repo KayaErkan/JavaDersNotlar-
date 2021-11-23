@@ -1,0 +1,12 @@
+
+
+1- Abstract Classes
+
+a) parent class daký bodysiz methodlara Abstract methodlar denir.
+ bazý child parent iliþkisindeki classalarda child class parent classýn bazý methodlarýn
+ kullanmak zorunda ise o meethodlar abtract hale getirilir  
+ ABSTRACT CLASSLARDA OBJ ASLA CREAT EDÝLEMEZ
+
+B) 	Bir method abstract yapmak için --> {body} silinir ve return type dan önce 
+"abstract" keyword kullanýlýr
+
